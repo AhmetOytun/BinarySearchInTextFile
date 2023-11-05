@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ahmetoytunkurtuldu/Desktop/BinarySearchInTextFile/searchalgorithm'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000039B8, symSize: 0x20C }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _KEY, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x6E, offset: 0x6E, size: 0x8, addend: 0x0, symName: _fileName, symBinAddr: 0x10000802C, symSize: 0x0 }
+  - { offsetInCU: 0x83, offset: 0x83, size: 0x8, addend: 0x0, symName: _MAX_LINE, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: _LINE_NUM, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0xA9, offset: 0xA9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000039B8, symSize: 0x20C }
+  - { offsetInCU: 0xFA, offset: 0xFA, size: 0x8, addend: 0x0, symName: _get_line_num, symObjAddr: 0x20C, symBinAddr: 0x100003BC4, symSize: 0x5C }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _txt_file_to_arr, symObjAddr: 0x268, symBinAddr: 0x100003C20, symSize: 0x94 }
+  - { offsetInCU: 0x17E, offset: 0x17E, size: 0x8, addend: 0x0, symName: _binary_search, symObjAddr: 0x2FC, symBinAddr: 0x100003CB4, symSize: 0x108 }
+  - { offsetInCU: 0x1EC, offset: 0x1EC, size: 0x8, addend: 0x0, symName: _cmp, symObjAddr: 0x404, symBinAddr: 0x100003DBC, symSize: 0xF0 }
+...
